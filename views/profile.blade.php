@@ -1,0 +1,4 @@
+<div>
+    <!-- dynamic -->
+    <h1>I am {{ $name }}</h1>
+</div>
